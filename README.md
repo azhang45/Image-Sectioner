@@ -1,2 +1,2 @@
 # Image-Sectioner
-Simple OpenCV program to section out images based on HSV values.
+Simple OpenCV program for image segmentation using cluster segmentation/KMeans.
